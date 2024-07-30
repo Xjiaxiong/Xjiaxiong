@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xjiaxiong
 - 👀 I’m interested in vue3 
-- 🌱 I’m currently learning 数据结构和算法
+- 🌱 I’m currently learning NestJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
